@@ -1,0 +1,8 @@
+{
+  "type": "shaderpacks",
+  "minecraft": "1.21.1",
+  "baseUrl": "https://raw.githubusercontent.com/Fantobus/shaderpacks/main/",
+  "mode": "additive",
+  "allowedExtra": [],
+  "files": []
+}
