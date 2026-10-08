@@ -6,6 +6,114 @@
   "allowedExtra": [],
   "files": [
     {
+      "file": "Better MC - High.zip",
+      "sha1": "a3c315613462c6dbfec11723c6d641e7b455adc8",
+      "size": 1904006,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - High.zip.txt",
+      "sha1": "84187038f2c691f26fd016dcef29e4dfee049972",
+      "size": 371,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - Low.zip",
+      "sha1": "a8c71706255b5d73c871691034f6ead799640a87",
+      "size": 1902828,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - Low.zip.txt",
+      "sha1": "d79420e9400c37a49729e703006bdc5d1f2cdb7b",
+      "size": 388,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - MacBook High.zip",
+      "sha1": "021c7f7868c7185249da3b6a13c2c683e18d50fe",
+      "size": 1913430,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - MacBook High.zip.txt",
+      "sha1": "789c615bdc74459d14898bb4b77c34626f28e6f8",
+      "size": 301,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - MacBook Low.zip",
+      "sha1": "9e9f91b3a42e0c9a918aa44b062fc142c1ee9c14",
+      "size": 1912252,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - MacBook Low.zip.txt",
+      "sha1": "fa91c315369d549c6d020ffb5cc2efe227de0156",
+      "size": 388,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - MacBook Medium.zip",
+      "sha1": "4a2a033d41303d1e488b1e8cc1fae7327a3582eb",
+      "size": 1915786,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - MacBook Medium.zip.txt",
+      "sha1": "3068f36ecc6af3295a094de919bfc885aa967fc3",
+      "size": 393,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - Medium.zip",
+      "sha1": "f5debbad3341fc4b11a4beaa5a9f42bd743ab32c",
+      "size": 1906362,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - Medium.zip.txt",
+      "sha1": "4e12e422587f52234bddd8edff996f25c7766ff6",
+      "size": 463,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - Ultra.zip",
+      "sha1": "4c1aa4556f5125ab7a5e8f6146437901352fc844",
+      "size": 1905184,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - Ultra.zip.txt",
+      "sha1": "15f72b247441c3c786205159662f7a3f29e85195",
+      "size": 475,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - Very Low.zip",
+      "sha1": "5a0c4296036dee87b05e3cea29d4dd551e2457d1",
+      "size": 1908718,
+      "side": "both"
+    },
+    {
+      "file": "Better MC - Very Low.zip.txt",
+      "sha1": "1185f8b9fa3a1e8fd83cca4bee6d15bc4a009e72",
+      "size": 497,
+      "side": "both"
+    },
+    {
+      "file": "ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.zip.txt",
+      "sha1": "bedb89ed1843602a167025e6b13a6d1585c9b79a",
+      "size": 219,
+      "side": "both"
+    },
+    {
+      "file": "ComplementaryReimagined_r5.7.1.zip",
+      "sha1": "b560f646a124d5204b1fb7321fec373b9c346fa5",
+      "size": 522970,
+      "side": "both"
+    },
+    {
       "file": "ComplementaryUnbound_r5.9.3 + EuphoriaPatches_1.10.5.zip",
       "sha1": "17e6312aa75c6b745b9b491e975bb982be3bd500",
       "size": 2313227,
