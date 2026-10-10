@@ -30,6 +30,30 @@
       "side": "both"
     },
     {
+      "file": "Fantasy_Shaders_v1.0.zip",
+      "sha1": "1ce88fa6c86bdd59fd5913588ccf94535179e7f4",
+      "size": 458103,
+      "side": "both"
+    },
+    {
+      "file": "Radiance-v0.2a.zip",
+      "sha1": "651a15c36f346c809a3f8e32c309ca5ac7c84f26",
+      "size": 15056,
+      "side": "both"
+    },
+    {
+      "file": "SEUS-PTGI-HRR-3.zip",
+      "sha1": "c4b2bc852435b1218796731c8daebd0f294ac3a3",
+      "size": 4411879,
+      "side": "both"
+    },
+    {
+      "file": "SEUS-PTGI-HRR-3.zip.txt",
+      "sha1": "44f3ab1d36b325f0629f75c5a2a41f6d8a7a4d54",
+      "size": 159,
+      "side": "both"
+    },
+    {
       "file": "Solas-Shader-V3.5.zip",
       "sha1": "0845174942a7cf7a2dfc51c0f44741f9883a2757",
       "size": 1228206,
@@ -39,6 +63,48 @@
       "file": "Solas-Shader-V3.5.zip.txt",
       "sha1": "12735275d622ea92b66b1baf817266e54b6ff92d",
       "size": 286,
+      "side": "both"
+    },
+    {
+      "file": "Solas-Shader-V3.7_1.zip",
+      "sha1": "5603293176deb9ef9ee154b37b799106aaecde53",
+      "size": 1241021,
+      "side": "both"
+    },
+    {
+      "file": "Solas-Shader-V3.7_1.zip.txt",
+      "sha1": "2e6c70e8fa3b3285d008d7ece18a05c0d8c22ded",
+      "size": 385,
+      "side": "both"
+    },
+    {
+      "file": "Vanilla Enhanced 1.17b.zip",
+      "sha1": "793432a317fb44f4816e52cf1988ac24d38ad584",
+      "size": 12928,
+      "side": "both"
+    },
+    {
+      "file": "rethinking-voxels_r0.1-beta9.zip",
+      "sha1": "9689915ec1a7215eb6060be2a08eaf3a09ebdbab",
+      "size": 8301317,
+      "side": "both"
+    },
+    {
+      "file": "rethinking-voxels_r0.1-beta9.zip.txt",
+      "sha1": "a830c5d6d8f4c78ec86878c47cfccaf9a8c2525a",
+      "size": 533,
+      "side": "both"
+    },
+    {
+      "file": "superDuperVanilla.zip",
+      "sha1": "f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c",
+      "size": 2851664,
+      "side": "both"
+    },
+    {
+      "file": "superDuperVanilla.zip.txt",
+      "sha1": "6ae4c344c983886eae71ea06da9754e421913e1f",
+      "size": 200,
       "side": "both"
     }
   ]
