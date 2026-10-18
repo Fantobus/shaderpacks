@@ -48,6 +48,12 @@
       "side": "both"
     },
     {
+      "file": "Insanity-Shader-Universal-v1.600.zip",
+      "sha1": "4dc252bc14a8f124a6e044f0cf4ba5c64b508f1d",
+      "size": 1037319,
+      "side": "both"
+    },
+    {
       "file": "Radiance-v0.2a.zip",
       "sha1": "651a15c36f346c809a3f8e32c309ca5ac7c84f26",
       "size": 15056,
@@ -93,6 +99,18 @@
       "file": "Vanilla Enhanced 1.17b.zip",
       "sha1": "793432a317fb44f4816e52cf1988ac24d38ad584",
       "size": 12928,
+      "side": "both"
+    },
+    {
+      "file": "kappa_v5.3.zip",
+      "sha1": "620388c59df919fc29f8762268942f4871c2fb55",
+      "size": 3872527,
+      "side": "both"
+    },
+    {
+      "file": "kappa_v5.3.zip.txt",
+      "sha1": "6e67ea5cf136b0bb43378db014ceb65d883a5a13",
+      "size": 52,
       "side": "both"
     },
     {
