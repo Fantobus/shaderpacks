@@ -6,6 +6,18 @@
   "allowedExtra": [],
   "files": [
     {
+      "file": "BSLClassic_v10.0.zip",
+      "sha1": "e753bd1d3e55b35f6af165f7c657d3cf7a5a9e99",
+      "size": 1121691,
+      "side": "both"
+    },
+    {
+      "file": "BSL_v10.1.1.zip",
+      "sha1": "6975d0161f22a5f6abf01a51fd9eedbd50c96cc3",
+      "size": 1125052,
+      "side": "both"
+    },
+    {
       "file": "ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.zip.txt",
       "sha1": "bedb89ed1843602a167025e6b13a6d1585c9b79a",
       "size": 219,
