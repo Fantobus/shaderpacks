@@ -24,6 +24,18 @@
       "side": "both"
     },
     {
+      "file": "ComplementaryUnbound_r5.9.3 + EuphoriaPatches_1.10.5.zip",
+      "sha1": "17e6312aa75c6b745b9b491e975bb982be3bd500",
+      "size": 2313227,
+      "side": "both"
+    },
+    {
+      "file": "ComplementaryUnbound_r5.9.3 + EuphoriaPatches_1.10.5.zip.txt",
+      "sha1": "9909723f2c726b6f3fc64a6d401d294a0b50dc20",
+      "size": 81,
+      "side": "both"
+    },
+    {
       "file": "ComplementaryUnbound_r5.9.3.zip",
       "sha1": "2ee08300e1d6f039e63eae8484dddf57b3aaaf67",
       "size": 553400,
