@@ -60,6 +60,18 @@
       "side": "both"
     },
     {
+      "file": "SEUS PTGI HRR 2.1 Reforged.zip",
+      "sha1": "ce1a8a27740535ce11e2d48ac5912143ca0a2b82",
+      "size": 6527168,
+      "side": "both"
+    },
+    {
+      "file": "SEUS PTGI HRR Test 2.1.zip",
+      "sha1": "126896b5ea46c89c09fb16c47f995713f6551102",
+      "size": 4402258,
+      "side": "both"
+    },
+    {
       "file": "SEUS-PTGI-HRR-3.zip",
       "sha1": "c4b2bc852435b1218796731c8daebd0f294ac3a3",
       "size": 4411879,
@@ -111,6 +123,12 @@
       "file": "kappa_v5.3.zip.txt",
       "sha1": "6e67ea5cf136b0bb43378db014ceb65d883a5a13",
       "size": 52,
+      "side": "both"
+    },
+    {
+      "file": "photon_v1.3b.zip",
+      "sha1": "d975d25c9686de5f10e8b86c8518613cdf3f040a",
+      "size": 3800987,
       "side": "both"
     },
     {
